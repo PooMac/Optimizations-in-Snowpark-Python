@@ -2,7 +2,7 @@
 
 ## Overview
 
-This guide contains key tips for optimal performance when using Snowpark Python.  The guide is broken up into multiple notebooks, each covering a key concept that can improve performance and/or efficiency while running workloads in Snowpark.  
+This guide has been designed to provide key tips for achieving optimal performance when using Snowpark Python. It is divided into multiple notebooks, each of which covers a specific concept that can help improve performance and efficiency when running workloads in Snowpark. These tips can help users maximize the potential of the Snowpark framework and optimize their Snowpark Python code for better performance.
 
 ## First - Prefer Snowpark df over Pandas df
 
